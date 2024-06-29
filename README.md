@@ -1,7 +1,7 @@
 ```markdown
-# Order App
+# Server Game
 
-Order App is an application that allows users to place orders online.
+Server Game is a project that provides a RESTful API for managing games. It is written in Go and uses the Gin framework.
 
 ## Quick Start
 
