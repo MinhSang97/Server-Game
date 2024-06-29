@@ -16,7 +16,7 @@ Server Game is a project that provides a RESTful API for managing games. It is w
 git clone https://github.com/MinhSang97/Server-Game.git
 ```
 
-## Move to oneship folder
+## Move to Server-Game folder
 
 ```bash
 cd Server-Game
